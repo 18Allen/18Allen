@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Allen Hao (郝嘉誠).
-- Junior ECE student @NYCU, Hsinchu.
+-  Current AMS PhD Studnet @JHU
+- Former ECE student @NYCU, Hsinchu.
 - Intern @NCTS 2021-2022.
 
 <!---
